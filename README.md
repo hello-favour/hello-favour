@@ -33,7 +33,7 @@
 - 🔭 I’m currently working at [Appollo](https://appollo.io/).
 - 😎 Would love to gig on weekends.[Contact me](https://twitter.com/edeme_kong).
 - 🌱 I’m currently learning more about Android & iOS native langueges.
-- 👯 I’m looking to collaborate on [Youtube: Flutter Developer's Core](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
+- 👯 I’m looking to collaborate on [Youtube: Flutter Fairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/edeme_kong) , [Youtube - @flutterdeveloperscore](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
 
@@ -69,6 +69,6 @@
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories amd subscribing to my channel[visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
 
 </div>
