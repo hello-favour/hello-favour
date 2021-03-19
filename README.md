@@ -1,5 +1,7 @@
 ## Hi! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong) 👋
 ### I Love ❤️ clean code.
+### Founder of Flutter Fairy.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-paulvin&label=Views&color=blue&style=plastic" alt="hello-paulvin" /> </p>
 
@@ -30,12 +32,13 @@
 
 
 
-- 🔭 I’m currently working at [Appollo](https://appollo.io/).
-- 😎 Would love to gig on weekends.[Contact me](https://twitter.com/edeme_kong).
+- 🔭 I’m currently working at [Appollo](https://appollo.io/) as Flutter Developer.
+- 😎 I'd love to gig on weekends.[Contact me](https://twitter.com/edeme_kong).
 - 🌱 I’m currently learning more about Android & iOS native langueges.
 - 👯 I’m looking to collaborate on [Youtube: Flutter Fairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/edeme_kong) , [Youtube - @flutterdeveloperscore](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
+- 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/edeme_kong) , [Youtube - @flutterfairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
+- 👩‍🎓 Want to learn flutter visit my channel [Youtube - @flutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-edeme'kong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-jeremiah-97093a193/)](https://www.linkedin.com/in/paul-jeremiah-97093a193/)
 [![GitHub hello-paulvin](https://img.shields.io/github/followers/hello-paulvin?label=follow&style=social)](https://github.com/hello-paulvin)
@@ -69,6 +72,6 @@
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories amd subscribing to my channel[visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
+### Show some ❤️ by starring some of the repositories amd subscribing to my youtube channel ## Flutter Fairy 👉[visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
 
 </div>
