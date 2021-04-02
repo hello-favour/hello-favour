@@ -51,27 +51,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/hello-paulvin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello-paulvin&theme=light&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/hello-paulvin">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-paulvin&show_icons=true&theme=light&line_height=27" alt="Edeme'kong's github stats"/>
 </a>
-<a href="https://github.com/hello-paulvin/flutter_tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hello-paulvin&repo=flutter_tutorials&theme=light" />
 
-</a>
 
-<a href="https://github.com/hello-paulvin/sticky-web-scroll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hello-paulvin&repo=sticky-web-scroll&theme=light" />
-
-</a>
-<a href="https://github.com/hello-paulvin/flutter-web-note-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hello-paulvin&repo=flutter-web-note-app&theme=light" />
-</a>
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories amd subscribing to my youtube channel ## Flutter Fairy 👉[visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
+### Show some ❤️ by starring some of the repositories amd subscribing to my youtube channel Flutter Fairy 👉[visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
 
 </div>
