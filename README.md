@@ -1,6 +1,6 @@
 ## Hi! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong) 👋
 ### I Love ❤️ clean code.
-### Founder of Flutter Fairy.
+### Founder @Flutter-Fairy.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-paulvin&label=Views&color=blue&style=plastic" alt="hello-paulvin" /> </p>
