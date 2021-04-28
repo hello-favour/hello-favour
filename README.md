@@ -5,7 +5,6 @@
 [![Youtube](https://img.shields.io/static/v1?label=FlutterFairy&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/edeme_kong?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/hello-paulvin?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/edeme_kong/)][linkedin]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-paulvin&label=Views&color=blue&style=plastic" alt="hello-paulvin" /> </p>
