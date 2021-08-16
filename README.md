@@ -36,7 +36,7 @@
 
 
 
-- 🔭 I’m currently working at [Appollo](https://appollo.io/) as Flutter Developer.
+- 🔭 I’m currently working at [Medalla](https://medalla.se/) as Flutter Developer.
 - 😎 I'd love to gig on weekends.[Contact me](https://twitter.com/edeme_kong).
 - 🌱 I’m currently learning more about Android & iOS native langueges.
 - 👯 I’m looking to collaborate on [Youtube: Flutter Fairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
