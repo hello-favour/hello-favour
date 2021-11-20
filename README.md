@@ -1,4 +1,4 @@
-## Hola! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong) 👋
+## Hola! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong) <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px">
 ### Loves Clean Code, Day Dreaming Occasionally on Flutter/Dart
 ### Founder @Flutter-Fairy.
 
