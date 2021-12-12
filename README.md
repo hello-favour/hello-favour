@@ -1,14 +1,8 @@
-## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hola! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong)
-### Loves Clean Code, Day Dreaming Occasionally on Flutter/Dart
-### Founder @Flutter-Fairy.
+## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hola! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong) 
+### • Loves clean codes || Build stuff using flutter/dart⚡️ || Open Sorcery || Open for tech talks & Flutter Geeks
+### Founder [@FlutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
 
-- 🔭 I’m currently working at [Medalla](https://medalla.se/) as Flutter Developer.
-- 🎤 Open for tech talks & Flutter Geeks
-- 🌱 Currently learning more about Android & iOS native langueges.
-- 👯 I’m looking to collaborate on [Youtube: Flutter Fairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @edeme_kong](https://twitter.com/edeme_kong) , [Youtube - @flutterfairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
-- 👩‍🎓 Want to learn flutter visit my channel [Youtube - @flutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)
+* 👨🏾‍💻Working at [Medalla](https://medalla.se/) as a Mobile Engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-paulvin&label=Views&color=blue&style=plastic" alt="hello-paulvin" /> </p>
 
@@ -22,10 +16,9 @@
 
 
 <a href="https://github.com/hello-paulvin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-paulvin&show_icons=true&theme=light&line_height=27" alt="Edeme'kong's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-paulvin&show_icons=true&theme=dark&line_height=27" alt="Edeme'kong's github stats"/>
 </a>
 
 
-### Hey, visit my youtube channel Flutter Fairy 👉 [visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
-
+## Yo!, help me grow my channel audience 🙏🏾 👉 [visit here](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ)!
 </div>
