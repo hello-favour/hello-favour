@@ -1,5 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hola! I'm [Paul Edeme'kong!](https://twitter.com/edeme_kong) 
 ### • Loves clean codes || Build stuff using flutter/dart⚡️ || Open Sorcery || Open for tech talks & Flutter Geeks
+#### 😃 Currently Exploring Kotlin-for-android
 ### Founder [@FlutterFairy](https://www.youtube.com/channel/UC1fuQBjVLSqwk-PgdeeMAyQ).
 
 * 👨🏾‍💻Working at [Medalla](https://medalla.se/) as a Mobile Engineer.
