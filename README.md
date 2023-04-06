@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hola! I'm [Favour Williams!](https://twitter.com/TechCodee) 
-### • Loves clean codes || Build stuff using flutter/dart⚡️ || Open for tech gigs, as mobile developer
+### • Loves clean codes || Build stuff using flutter/dart⚡️ || Currently searching for flutter mobile developer role 
 #### 😃 Currently Exploring Flutter
 
 * 👨🏾‍💻 Mobile Developer.
