@@ -1,10 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> Hi there, I'm Favour!
 
 ### • I am very passionate about tech and it's endless possibilities!
-💻 I build mobile applications with flutter and dart.
-#### 😃 Currently Exploring Flutter
-
-* 👨🏾‍💻 Mobile Developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-favour&label=Views&color=blue&style=plastic" alt="hello-favour" /> </p>
 
