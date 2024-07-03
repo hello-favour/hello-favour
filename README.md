@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> I'm FAVOR!
 
-### • I am very passionate about tech and it's endless possibilities!
+### • I'm a mobile developer passionate about Flutter&Dart and it's endless possibilities!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-favour&label=Views&color=blue&style=plastic" alt="hello-favour" /> </p>
 
