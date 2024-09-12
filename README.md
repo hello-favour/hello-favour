@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px"> I'm FAVUOR!
 
-### • I'm a mobile developer with a passion for Flutter and Dart, focused on building high-performance, intuitive apps. With a strong foundation in UI/UX, I bring a detail-oriented approach to every project.
+I'm a mobile developer with a passion for Flutter and Dart, focused on building high-performance, intuitive apps. With a strong foundation in UI/UX, I bring a detail-oriented approach to every project.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-favour&label=Views&color=blue&style=plastic" alt="hello-favour" /> </p>
 
